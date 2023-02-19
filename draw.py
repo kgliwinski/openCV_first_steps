@@ -1,7 +1,7 @@
 import cv2 as cv
 import numpy as np
 
-PATH = '../Resources/'
+PATH = 'Resources/'
 
 # the 3 is the number of colors
 blank = np.zeros((500, 500, 3), dtype='uint8')

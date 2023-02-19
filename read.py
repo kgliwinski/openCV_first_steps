@@ -1,5 +1,5 @@
 import cv2 as cv
-PATH = '../Resources/Photos/'
+PATH = 'Resources/Photos/'
 
 img = cv.imread(PATH + 'cat.jpg')
 
